@@ -1,0 +1,10 @@
+delhi gthj 5534
+delhi mumbai 4000
+mumbai delhi 5000
+mumbai kolkata 6000
+mumbai agra 9000
+kolkata agra 7000
+kolkata delhi 7500
+mumbai chennai 2000
+chandigarh delhi 4000
+delhi kanpur 5678

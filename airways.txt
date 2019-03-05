@@ -1,0 +1,8 @@
+sashakt 19 1 m 389905801 117018 mumbai delhi
+swaraj 20 2 m 788765433 117018 mumbai delhi
+sdf 67 3 f 887766655 117029 mumbai delhi
+gvhb 69 4 f 456788 117040 xyz delhi
+sdf 67 7 m 688668899 117062 xyz delhi
+bgnh 56 9 m 678567.000000 117084 mumbai delhi
+fggbg 67 10 m 6788656.000000 117095 mumbai delhi
+aaru 20 11 f 4567890.000000 117106 mumbai delhi
